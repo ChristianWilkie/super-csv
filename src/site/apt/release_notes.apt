@@ -19,6 +19,14 @@
 
 Release notes
 
+* 2.5.0
+
+  <01/2020>
+
+  <<General enhancements>>
+
+    * {{{https://github.com/super-csv/super-csv/issues/147}147}} - CsvResultSetWriter header option
+
 * 2.4.0
 
   <10/2015>
